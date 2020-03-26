@@ -1,11 +1,11 @@
 # Cloud & Containers Training
-This is the repository for the Cloud & Containers Training
+This is the repository for the AWS Training part of Cloud & Containers Training
 
-All the material needed will be posted here
+All the necessary materials needed will be posted here.
 
 Please follow the next steps:
-1. Inside Labs-Files Folder open the Credentials file
-2. Look for your name and password, then open the console link
+1. Go Inside Labs-Files Folder and open the Credentials file
+2. Look for your name and password, then open the console link of AWS
 3. Change your password following the next Password Policy Guidelines
 
 - Minimum password length is 8 characters
@@ -17,7 +17,8 @@ Please follow the next steps:
 - Remember last 3 password(s) and prevent reuse
 
 4. Login again with your new Password
-5. Open the AWS LAB User Config, there will be some unique data for all the labs that will be related to each user
+5. The open the AWS LAB User Config, there will be some unique data per user for some of the labs.
+6. You can download all the material from Gitub to your own PC.
 
 
 
