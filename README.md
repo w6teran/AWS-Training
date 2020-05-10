@@ -1,4 +1,4 @@
-# PANW MCA Cloud & Containers Training Session #1
+# PANW LATAM Cloud & Containers Training Session #1
 This is the repository for the AWS Training part of Cloud & Containers Training
 
 All the necessary materials needed will be posted here.
