@@ -1,5 +1,6 @@
 # PANW LATAM Cloud & Containers Training Session #1
 COLOMBIA SESSION
+
 This is the repository for the AWS Training part of Cloud & Containers Training
 
 All the necessary materials needed will be posted here.
