@@ -6,7 +6,7 @@ This is the repository for the AWS Training part of Cloud & Containers Training
 All the necessary materials needed will be posted here.
 
 Please follow the next steps:
-1. Go Inside Labs-Files Folder and open the Credentials file
+1. Check your email and open the Credentials file
 2. Look for your name and password, then open the console link of AWS
 3. Change your password following the next Password Policy Guidelines
 
